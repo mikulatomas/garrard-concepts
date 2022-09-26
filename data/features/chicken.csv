@@ -1,0 +1,25 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a animal,categorising,0.15,0.5,
+is a bird,categorising,0.9,1.0,
+has feathers,sensory,0.8,1.0,0.07
+has beak,sensory,0.55,1.0,0.07
+has legs,sensory,0.55,0.75,0.12
+has wings,sensory,0.35,1.0,0.07
+has two legs,sensory,0.35,0.62,0.13
+is small,sensory,0.35,0.38,0.02
+has crest,sensory,0.3,0.25,0.05
+can make a noise,sensory,0.2,0.62,0.03
+has eyes,sensory,0.2,0.75,0.13
+has feet,sensory,0.2,0.75,0.06
+has scaley legs,sensory,0.15,0.12,0.02
+is brown,sensory,0.15,0.25,0.05
+can lay eggs,functional,0.8,1.0,0.05
+is edible,functional,0.65,0.38,0.1
+can cluck,functional,0.3,0.12,0.02
+can eat,functional,0.3,0.62,0.11
+can fly,functional,0.3,0.75,0.14
+can scratch,functional,0.2,0.12,0.03
+can peck,functional,0.15,0.12,0.02
+can run,functional,0.15,0.38,0.12
+is domesticated,encyclopaedic,0.55,0.25,0.05
+is found on farms,encyclopaedic,0.3,0.25,0.05

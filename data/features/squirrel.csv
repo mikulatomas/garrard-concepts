@@ -1,0 +1,38 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a mammal,categorising,0.26,0.5,
+is a rodent,categorising,0.26,0.12,
+is a animal,categorising,0.89,0.88,
+has tail,sensory,0.89,0.81,0.11
+has fur,sensory,0.79,0.69,0.11
+has bushy tail,sensory,0.74,0.06,0.05
+is grey,sensory,0.63,0.19,0.09
+is red,sensory,0.58,0.06,0.1
+has eyes,sensory,0.37,1.0,0.13
+has teeth,sensory,0.37,0.56,0.1
+has ears,sensory,0.32,0.69,0.09
+is small,sensory,0.32,0.5,0.02
+has legs,sensory,0.26,0.88,0.12
+has sharp teeth,sensory,0.26,0.38,0.19
+has feet,sensory,0.21,0.44,0.06
+has four legs,sensory,0.21,0.94,0.13
+has claws,sensory,0.16,0.31,0.04
+is fast,sensory,0.16,0.62,0.08
+has pointed ears,sensory,0.11,0.12,0.04
+is brown,sensory,0.11,0.5,0.05
+can climb,functional,0.79,0.31,0.13
+can jump,functional,0.63,0.56,0.09
+can eat,functional,0.47,0.94,0.11
+can run,functional,0.42,0.88,0.12
+can dig,functional,0.21,0.19,0.06
+can grasp,functional,0.21,0.12,0.08
+is agile,functional,0.21,0.25,0.12
+can chew,functional,0.16,0.19,0.07
+can walk,functional,0.16,0.75,0.08
+can bite,functional,0.11,0.31,0.17
+is found in trees,encyclopaedic,0.58,0.12,0.06
+can eat nuts,encyclopaedic,0.53,0.06,0.05
+can hibernate,encyclopaedic,0.21,0.12,0.06
+is a pest,encyclopaedic,0.21,0.19,0.08
+is wild,encyclopaedic,0.21,0.75,0.09
+is vegetarian,encyclopaedic,0.21,0.5,0.09
+has nest,encyclopaedic,0.11,0.12,0.12

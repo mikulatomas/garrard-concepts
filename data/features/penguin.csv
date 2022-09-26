@@ -1,0 +1,22 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a animal,categorising,0.15,0.5,
+is a bird,categorising,0.85,1.0,
+has feet,sensory,0.75,0.75,0.06
+is black,sensory,0.7,0.25,0.06
+has beak,sensory,0.55,1.0,0.07
+is white,sensory,0.55,0.25,0.06
+has feathers,sensory,0.5,1.0,0.07
+has webbed feet,sensory,0.5,0.38,0.1
+is upright,sensory,0.4,0.12,0.04
+has flippers,sensory,0.35,0.12,0.05
+has wings,sensory,0.35,1.0,0.07
+is small,sensory,0.15,0.38,0.02
+can swim,functional,0.9,0.38,0.04
+can walk,functional,0.8,0.75,0.08
+can eat,functional,0.75,0.62,0.11
+can lay eggs,functional,0.45,1.0,0.05
+can dive,functional,0.2,0.38,0.1
+can eat fish,encyclopaedic,0.7,0.12,0.06
+is found in cold climate,encyclopaedic,0.55,0.12,0.03
+is found near water,encyclopaedic,0.3,0.38,0.04
+is found in groups,encyclopaedic,0.15,0.12,0.03

@@ -1,0 +1,29 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a container,categorising,0.16,0.44,
+is a tool,categorising,0.63,0.5,
+has handle,sensory,0.95,0.5,0.03
+has rose,sensory,0.95,0.06,0.05
+has spout,sensory,0.95,0.06,0.05
+is made of metal,sensory,0.89,0.56,0.04
+is made of plastic,sensory,0.68,0.5,0.03
+has body,sensory,0.21,0.25,0.2
+is coloured,sensory,0.21,0.44,0.04
+is open,sensory,0.21,0.06,0.05
+has base,sensory,0.11,0.38,0.14
+is hollow,sensory,0.11,0.25,0.11
+is round,sensory,0.11,0.44,0.03
+is small,sensory,0.11,0.69,0.03
+can be filled,functional,0.53,0.25,0.11
+can sprinkle,functional,0.53,0.06,0.05
+can water plants,functional,0.42,0.06,0.05
+can be carried,functional,0.26,0.56,0.04
+can hold water,functional,0.26,0.06,0.05
+can be emptied,functional,0.21,0.19,0.09
+is useful,functional,0.21,0.75,0.01
+can be bought,functional,0.11,0.25,0.01
+can pour,functional,0.11,0.06,0.05
+can tip,functional,0.11,0.06,0.09
+is found in the garden,encyclopaedic,0.68,0.12,0.06
+is waterproof,encyclopaedic,0.16,0.06,0.05
+can leak,encyclopaedic,0.11,0.06,0.05
+can measure,encyclopaedic,0.11,0.06,0.05

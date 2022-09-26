@@ -1,0 +1,45 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a mammal,categorising,0.16,0.5,
+is a pet,categorising,0.84,0.19,
+is a animal,categorising,1.0,0.88,
+has legs,sensory,0.79,0.88,0.12
+has four legs,sensory,0.68,0.94,0.13
+has tail,sensory,0.68,0.81,0.11
+can bark,sensory,0.58,0.06,0.08
+has ears,sensory,0.47,0.69,0.09
+has teeth,sensory,0.32,0.56,0.1
+has eyes,sensory,0.26,1.0,0.13
+has fur,sensory,0.26,0.69,0.11
+can make a noise,sensory,0.21,0.19,0.03
+has head,sensory,0.21,0.38,0.04
+has nose,sensory,0.16,0.12,0.09
+has sharp teeth,sensory,0.16,0.38,0.19
+has mouth,sensory,0.11,0.19,0.11
+has wet nose,sensory,0.11,0.06,0.08
+is coloured,sensory,0.11,0.12,0.09
+is fast,sensory,0.11,0.62,0.08
+is in different sizes,sensory,0.11,0.06,0.08
+is large,sensory,0.11,0.62,0.06
+is small,sensory,0.11,0.5,0.02
+can eat,functional,0.74,0.94,0.11
+can run,functional,0.58,0.88,0.12
+can bite,functional,0.47,0.31,0.17
+can jump,functional,0.32,0.56,0.09
+can be trained,functional,0.26,0.25,0.17
+can wag tail,functional,0.26,0.06,0.08
+can guard,functional,0.21,0.06,0.08
+can guide,functional,0.21,0.06,0.08
+can walk,functional,0.21,0.75,0.08
+can be bought,functional,0.11,0.06,0.08
+can beg,functional,0.11,0.06,0.08
+can drink,functional,0.11,0.12,0.1
+can play,functional,0.11,0.06,0.08
+can pull,functional,0.11,0.19,0.12
+can sleep,functional,0.11,0.06,0.08
+is domesticated,encyclopaedic,0.47,0.38,0.05
+is friendly,encyclopaedic,0.47,0.12,0.11
+has good sense of smell,encyclopaedic,0.16,0.06,0.08
+is carnivorous,encyclopaedic,0.11,0.19,0.14
+is intelligent,encyclopaedic,0.11,0.12,0.1
+is predator,encyclopaedic,0.11,0.19,0.12
+is wild,encyclopaedic,0.11,0.75,0.09

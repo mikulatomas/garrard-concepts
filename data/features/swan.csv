@@ -1,0 +1,35 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a animal,categorising,0.16,0.5,
+is a bird,categorising,0.84,1.0,
+is white,sensory,0.84,0.25,0.06
+has feet,sensory,0.74,0.75,0.06
+has beak,sensory,0.68,1.0,0.07
+has feathers,sensory,0.68,1.0,0.07
+has webbed feet,sensory,0.68,0.38,0.1
+has neck,sensory,0.58,0.25,0.07
+has long neck,sensory,0.53,0.25,0.07
+has wings,sensory,0.53,1.0,0.07
+is large,sensory,0.32,0.62,0.06
+has two legs,sensory,0.21,0.62,0.13
+is black,sensory,0.21,0.25,0.06
+can make a noise,sensory,0.16,0.62,0.03
+has large beak,sensory,0.16,0.12,0.06
+has large wings,sensory,0.16,0.25,0.07
+has legs,sensory,0.16,0.75,0.12
+has yellow beak,sensory,0.16,0.12,0.06
+is elegant,sensory,0.16,0.12,0.06
+has eyes,sensory,0.11,0.75,0.13
+can fly,functional,0.89,0.75,0.14
+can swim,functional,0.84,0.38,0.04
+can lay eggs,functional,0.42,1.0,0.05
+can walk,functional,0.26,0.75,0.08
+can reproduce,functional,0.21,0.25,0.07
+can dive,functional,0.16,0.38,0.1
+can eat,functional,0.16,0.62,0.11
+is found near water,encyclopaedic,0.53,0.38,0.04
+is dangerous,encyclopaedic,0.37,0.5,0.05
+is royal,encyclopaedic,0.26,0.12,0.06
+is monogamous,encyclopaedic,0.21,0.12,0.06
+is wild,encyclopaedic,0.21,0.62,0.09
+can eat weeds,encyclopaedic,0.16,0.12,0.06
+has nest,encyclopaedic,0.16,0.38,0.12

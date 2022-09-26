@@ -1,0 +1,29 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a appliance,categorising,0.11,0.06,
+is a household item,categorising,0.11,0.75,
+is a tool,categorising,0.21,0.5,
+is a electrical item,categorising,0.68,0.12,
+has pin,sensory,0.95,0.06,0.05
+is made of plastic,sensory,0.63,0.5,0.03
+has fuse,sensory,0.58,0.06,0.05
+has wires,sensory,0.58,0.12,0.09
+is made of metal,sensory,0.47,0.56,0.04
+has cable,sensory,0.37,0.06,0.05
+is small,sensory,0.28,0.69,0.03
+has cover,sensory,0.26,0.06,0.05
+has screws,sensory,0.26,0.06,0.05
+is white,sensory,0.21,0.19,0.15
+has terminals,sensory,0.16,0.06,0.05
+has cable grip,sensory,0.11,0.06,0.05
+is coloured,sensory,0.11,0.44,0.04
+is square,sensory,0.11,0.31,0.16
+can conduct electricity,functional,0.53,0.06,0.05
+can be inserted,functional,0.42,0.12,0.08
+can earth,functional,0.28,0.06,0.05
+is useful,functional,0.26,0.75,0.01
+can be connected,functional,0.21,0.06,0.05
+can be pulled,functional,0.21,0.06,0.09
+can be broken,functional,0.16,0.19,0.09
+is insulated,functional,0.16,0.06,0.05
+can be bought,functional,0.11,0.25,0.01
+is dangerous,encyclopaedic,0.26,0.06,0.11

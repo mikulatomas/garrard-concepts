@@ -1,0 +1,40 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a cat,categorising,0.16,0.06,
+is a mammal,categorising,0.16,0.5,
+is a animal,categorising,0.95,0.88,
+has stripes,sensory,0.84,0.06,0.06
+has fur,sensory,0.63,0.69,0.11
+has tail,sensory,0.63,0.81,0.11
+has teeth,sensory,0.63,0.56,0.1
+has legs,sensory,0.47,0.88,0.12
+is fast,sensory,0.47,0.62,0.08
+has claws,sensory,0.42,0.31,0.04
+has four legs,sensory,0.37,0.94,0.13
+is large,sensory,0.32,0.62,0.06
+has long tail,sensory,0.21,0.25,0.11
+can growl,sensory,0.16,0.06,0.06
+has ears,sensory,0.16,0.69,0.09
+has sharp teeth,sensory,0.16,0.38,0.19
+has skin,sensory,0.16,0.44,0.1
+has body,sensory,0.11,0.31,0.14
+has eyes,sensory,0.11,1.0,0.13
+is quiet,sensory,0.11,0.06,0.06
+can run,functional,0.63,0.88,0.12
+can jump,functional,0.32,0.56,0.09
+can breed,functional,0.26,0.56,0.07
+can climb,functional,0.26,0.31,0.13
+can roar,functional,0.16,0.06,0.06
+can be trained,functional,0.11,0.25,0.17
+can eat,functional,0.11,0.94,0.11
+can walk,functional,0.11,0.75,0.08
+is agile,functional,0.11,0.25,0.12
+is dangerous,encyclopaedic,0.68,0.25,0.05
+is predator,encyclopaedic,0.63,0.19,0.12
+is wild,encyclopaedic,0.47,0.75,0.09
+is carnivorous,encyclopaedic,0.32,0.19,0.14
+has good eyesight,encyclopaedic,0.11,0.12,0.1
+has strong teeth,encyclopaedic,0.11,0.12,0.07
+is found in a zoo,encyclopaedic,0.11,0.19,0.08
+is found in jungles,encyclopaedic,0.11,0.06,0.06
+is rare,encyclopaedic,0.11,0.12,0.08
+is strong,encyclopaedic,0.11,0.31,0.21

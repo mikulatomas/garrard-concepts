@@ -1,0 +1,30 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a fruit,categorising,1.0,1.0,
+has pips,sensory,0.95,0.67,0.15
+has skin,sensory,0.74,1.0,0.1
+is round,sensory,0.74,0.67,0.13
+has stalk,sensory,0.68,0.67,0.15
+has flesh,sensory,0.63,1.0,0.22
+has core,sensory,0.53,0.33,0.1
+is red,sensory,0.37,0.5,0.1
+is green,sensory,0.37,0.33,0.11
+is sweet,sensory,0.37,1.0,0.22
+has leaves,sensory,0.32,0.83,0.19
+is hard,sensory,0.32,0.33,0.09
+is juicy,sensory,0.32,0.83,0.18
+is coloured,sensory,0.16,0.17,0.09
+is sour,sensory,0.16,0.17,0.08
+has white flesh,sensory,0.11,0.33,0.1
+is small,sensory,0.11,0.5,0.02
+is edible,functional,0.84,1.0,0.1
+be cooked,functional,0.68,0.83,0.17
+can fall,functional,0.32,0.33,0.1
+can be picked,functional,0.16,0.67,0.15
+can ripen,functional,0.16,0.5,0.13
+can rot,functional,0.16,0.17,0.08
+can be bought,functional,0.11,0.17,0.08
+can be sold,functional,0.11,0.17,0.08
+can grow,encyclopaedic,0.53,0.5,0.13
+is found on trees,encyclopaedic,0.21,0.5,0.11
+can be preserved,encyclopaedic,0.11,0.17,0.08
+has maggots,encyclopaedic,0.11,0.17,0.08

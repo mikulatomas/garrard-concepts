@@ -1,0 +1,16 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a implement,categorising,0.11,0.13,
+is a tool,categorising,0.84,1.0,
+has handle,sensory,0.89,0.88,0.03
+is sharp,sensory,0.79,0.5,0.06
+is made of metal,sensory,0.74,0.88,0.04
+has blade,sensory,0.63,0.5,0.06
+has head,sensory,0.63,0.38,0.14
+is heavy,sensory,0.63,0.38,0.01
+is made of wood,sensory,0.26,0.63,0.01
+can cut,functional,0.61,0.5,0.09
+can fell trees,functional,0.37,0.13,0.02
+can split,functional,0.21,0.13,0.02
+can be thrown,functional,0.16,0.13,0.02
+can be sharpened,functional,0.11,0.38,0.06
+is dangerous,encyclopaedic,0.47,0.5,0.11

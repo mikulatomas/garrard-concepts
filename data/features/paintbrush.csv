@@ -1,0 +1,19 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a tool,categorising,0.72,1.0,
+has bristles,sensory,1.0,0.12,0.07
+has handle,sensory,0.94,0.88,0.03
+is made of wood,sensory,0.5,0.62,0.01
+is in different sizes,sensory,0.33,0.25,0.1
+is soft,sensory,0.22,0.12,0.09
+has metal band,sensory,0.11,0.12,0.03
+is made of plastic,sensory,0.11,0.25,0.03
+is small,sensory,0.11,0.5,0.03
+can spread paint,functional,0.67,0.12,0.03
+can be cleaned,functional,0.33,0.12,0.03
+is handheld,functional,0.22,0.88,0.03
+is useful,functional,0.17,0.75,0.01
+can be used to clean things,functional,0.15,0.12,0.03
+can be bought,functional,0.11,0.25,0.01
+can be stored,functional,0.11,0.12,0.03
+is used by artists,encyclopaedic,0.28,0.12,0.03
+is used by decorators,encyclopaedic,0.22,0.12,0.03

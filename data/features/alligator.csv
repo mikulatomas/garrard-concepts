@@ -1,0 +1,42 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a reptile,categorising,0.32,0.19,
+is a amphibian,categorising,0.53,0.13,
+is a animal,categorising,0.58,0.88,
+has tail,sensory,0.84,0.81,0.11
+has teeth,sensory,0.79,0.56,0.1
+has skin,sensory,0.63,0.44,0.1
+has large mouth,sensory,0.47,0.13,0.08
+has mouth,sensory,0.47,0.19,0.11
+has scales,sensory,0.47,0.06,0.07
+has legs,sensory,0.42,0.88,0.12
+has body,sensory,0.32,0.31,0.14
+has eyes,sensory,0.32,1.0,0.13
+has long tail,sensory,0.26,0.25,0.11
+has sharp teeth,sensory,0.21,0.38,0.19
+has four legs,sensory,0.21,0.13,0.08
+is large,sensory,0.21,0.63,0.06
+has feet,sensory,0.16,0.44,0.06
+is long,sensory,0.16,0.06,0.06
+has head,sensory,0.11,0.38,0.04
+has large teeth,sensory,0.11,0.06,0.07
+has powerful tail,sensory,0.11,0.13,0.07
+has four feet,sensory,0.11,0.06,0.07
+has short legs,sensory,0.11,0.06,0.07
+is fast,sensory,0.11,0.63,0.08
+can swim,functional,0.74,0.25,0.04
+can bite,functional,0.37,0.31,0.17
+can eat,functional,0.32,0.94,0.11
+can walk,functional,0.26,0.75,0.08
+can lay eggs,functional,0.16,0.19,0.05
+can dive,functional,0.11,0.06,0.1
+can hide,functional,0.11,0.19,0.08
+can run,functional,0.11,0.88,0.12
+is dangerous,encyclopaedic,0.79,0.25,0.05
+is carnivorous,encyclopaedic,0.32,0.19,0.14
+is found near water,encyclopaedic,0.26,0.25,0.04
+is wild,encyclopaedic,0.26,0.75,0.09
+can eat people,encyclopaedic,0.16,0.06,0.07
+has tough skin,encyclopaedic,0.16,0.13,0.09
+can eat fish,encyclopaedic,0.11,0.06,0.06
+is found in America,encyclopaedic,0.11,0.06,0.07
+is strong,encyclopaedic,0.11,0.31,0.21

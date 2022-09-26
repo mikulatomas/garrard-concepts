@@ -1,0 +1,41 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a mammal,categorising,0.11,0.5,
+is a vehicle,categorising,0.16,0.06,
+is a animal,categorising,0.95,0.88,
+has humps,sensory,0.79,0.06,0.08
+has legs,sensory,0.68,0.88,0.12
+has four legs,sensory,0.53,0.94,0.13
+is large,sensory,0.53,0.62,0.06
+has tail,sensory,0.42,0.81,0.11
+has fur,sensory,0.37,0.69,0.11
+has hooves,sensory,0.26,0.19,0.11
+has ears,sensory,0.21,0.69,0.09
+has long neck,sensory,0.21,0.06,0.07
+has neck,sensory,0.21,0.06,0.07
+has eyes,sensory,0.16,1.0,0.13
+has large mouth,sensory,0.16,0.12,0.08
+has mouth,sensory,0.16,0.19,0.11
+has small tail,sensory,0.16,0.25,0.14
+has smell,sensory,0.16,0.12,0.06
+is brown,sensory,0.16,0.5,0.05
+is fast,sensory,0.11,0.62,0.08
+can be ridden,functional,0.58,0.19,0.12
+can carry,functional,0.58,0.19,0.14
+can run,functional,0.47,0.88,0.12
+can walk,functional,0.47,0.75,0.08
+can spit,functional,0.26,0.06,0.08
+can eat,functional,0.21,0.94,0.11
+can kneel,functional,0.21,0.06,0.08
+can bite,functional,0.2,0.31,0.17
+can sit,functional,0.16,0.06,0.08
+is useful,functional,0.16,0.12,0.07
+can drink,functional,0.11,0.12,0.1
+can store water,encyclopaedic,0.58,0.06,0.08
+is found in desert,encyclopaedic,0.47,0.06,0.08
+is bad temepered,encyclopaedic,0.37,0.06,0.08
+is herbivorous,encyclopaedic,0.16,0.25,0.15
+is domesticated,encyclopaedic,0.11,0.38,0.05
+is found in Africa,encyclopaedic,0.11,0.19,0.11
+is found in Australia,encyclopaedic,0.11,0.12,0.06
+is strong,encyclopaedic,0.11,0.31,0.21
+is wild,encyclopaedic,0.11,0.75,0.09

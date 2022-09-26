@@ -1,0 +1,35 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a reptile,categorising,0.26,0.19,
+is a animal,categorising,0.53,0.88,
+is a amphibian,categorising,0.58,0.12,
+has shell,sensory,0.95,0.06,0.04
+has legs,sensory,0.58,0.88,0.12
+has four legs,sensory,0.58,0.12,0.08
+has four legs,sensory,0.56,0.94,0.13
+is slow,sensory,0.37,0.12,0.08
+has skin,sensory,0.32,0.44,0.1
+is hard,sensory,0.32,0.06,0.09
+has feet,sensory,0.26,0.44,0.06
+has head,sensory,0.26,0.38,0.04
+is large,sensory,0.21,0.62,0.06
+has eyes,sensory,0.21,1.0,0.13
+has small head,sensory,0.16,0.06,0.06
+is brown,sensory,0.16,0.5,0.05
+has claws,sensory,0.11,0.31,0.04
+has flippers,sensory,0.11,0.06,0.05
+has four feet,sensory,0.11,0.06,0.04
+has thick skin,sensory,0.11,0.12,0.08
+is heavy,sensory,0.11,0.25,0.15
+is small,sensory,0.11,0.5,0.02
+can swim,functional,0.89,0.25,0.04
+can lay eggs,functional,0.68,0.19,0.05
+can walk,functional,0.53,0.75,0.08
+is edible,functional,0.42,0.31,0.1
+can retract head,functional,0.16,0.06,0.04
+can dig,functional,0.11,0.19,0.06
+can eat,functional,0.11,0.94,0.11
+is found near water,encyclopaedic,0.42,0.25,0.04
+can hibernate,encyclopaedic,0.21,0.12,0.06
+is vegetarian,encyclopaedic,0.21,0.5,0.09
+is wild,encyclopaedic,0.16,0.75,0.09
+is long-lived,encyclopaedic,0.11,0.06,0.04

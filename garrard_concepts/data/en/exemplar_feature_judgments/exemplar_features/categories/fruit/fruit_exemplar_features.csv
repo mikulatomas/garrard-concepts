@@ -1,0 +1,7 @@
+,be cooked,can be bought,can be cooked,can be cut,can be eaten raw,can be peeled,can be picked,can be preserved,can be sold,can fall,can grow,can ripen,can rot,has core,has flesh,has leaves,has maggots,has pip,has pips,has pith,has rough skin,has segments,has skin,has smell,has spikes,has spikey leaves,has stalk,has taste,has white flesh,has yellow flesh,is a fruit,is a vegetable,is coloured,is common,is curved,is edible,is found in bunches,is found in salad,is found in salads,is found in the tropics,is found in tins,is found in trees,is found in tropics,is found on trees,is green,is hard,is juicy,is large,is long,is orange,is oval/round,is red,is round,is shiny,is small,is soft,is sour,is sweet,is thin,is yellow
+apple,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,1,0,1,1,0,0
+banana,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1
+cherry,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0
+orange,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+pineapple,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,1
+tomato,0,0,1,0,1,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0

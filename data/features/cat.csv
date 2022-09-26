@@ -1,0 +1,28 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a pet,categorising,0.2,0.19,
+is a animal,categorising,0.9,0.88,
+has fur,sensory,0.9,0.69,0.11
+has tail,sensory,0.7,0.81,0.11
+has legs,sensory,0.55,0.88,0.12
+has four legs,sensory,0.5,0.94,0.13
+has claws,sensory,0.45,0.31,0.04
+can miaow,sensory,0.35,0.06,0.04
+has ears,sensory,0.35,0.69,0.09
+has whiskers,sensory,0.3,0.19,0.06
+has eyes,sensory,0.25,1.0,0.13
+has teeth,sensory,0.25,0.56,0.1
+is small,sensory,0.2,0.5,0.02
+has pointed ears,sensory,0.15,0.12,0.04
+is coloured,sensory,0.15,0.12,0.09
+is soft,sensory,0.15,0.19,0.1
+can purr,functional,0.6,0.06,0.04
+can jump,functional,0.5,0.56,0.09
+can scratch,functional,0.45,0.06,0.03
+can climb,functional,0.35,0.31,0.13
+can run,functional,0.35,0.88,0.12
+can eat,functional,0.2,0.94,0.11
+can see,functional,0.2,0.25,0.1
+can see in the dark,functional,0.15,0.06,0.04
+can walk,functional,0.15,0.75,0.08
+is predator,encyclopaedic,0.65,0.19,0.12
+is domesticated,encyclopaedic,0.55,0.38,0.05

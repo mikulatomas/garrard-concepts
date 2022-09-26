@@ -1,0 +1,16 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a tool,categorising,1.0,1.0,
+is made of metal,sensory,0.84,0.88,0.04
+has handle,sensory,0.75,0.88,0.03
+has open end,sensory,0.5,0.12,0.02
+has sockets,sensory,0.35,0.12,0.02
+is in different sizes,sensory,0.3,0.25,0.1
+is shaped to fit,sensory,0.25,0.12,0.02
+has head,sensory,0.2,0.38,0.14
+is hard,sensory,0.2,0.38,0.02
+is heavy,sensory,0.15,0.38,0.01
+can turn,functional,0.9,0.25,0.05
+is adjustable,functional,0.25,0.12,0.02
+is useful,functional,0.25,0.75,0.01
+is handheld,functional,0.15,0.88,0.03
+is dangerous,encyclopaedic,0.15,0.5,0.11

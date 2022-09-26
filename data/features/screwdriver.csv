@@ -1,0 +1,16 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a tool,categorising,1.0,1.0,
+has handle,sensory,0.9,0.88,0.03
+is made of metal,sensory,0.7,0.88,0.04
+has blade,sensory,0.45,0.5,0.06
+has square/flat end,sensory,0.4,0.12,0.02
+has shaft,sensory,0.35,0.12,0.02
+is made of wood,sensory,0.35,0.62,0.01
+is sharp,sensory,0.35,0.5,0.06
+is small,sensory,0.3,0.5,0.03
+is long and/or thin,sensory,0.2,0.38,0.02
+can turn screws,functional,0.9,0.12,0.02
+can be used as a lever,functional,0.45,0.12,0.02
+is useful,functional,0.25,0.75,0.01
+is handheld,functional,0.2,0.88,0.03
+is powered,encyclopaedic,0.25,0.25,0.04

@@ -1,0 +1,22 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a household item,categorising,0.37,0.12,
+is a tool,categorising,0.79,1.0,
+has blade,sensory,1.0,0.5,0.06
+has finger hole,sensory,0.84,0.12,0.03
+is sharp,sensory,0.79,0.5,0.06
+is made of metal,sensory,0.58,0.88,0.04
+has hinge,sensory,0.37,0.25,0.06
+is serrated,sensory,0.21,0.12,0.03
+is made of plastic,sensory,0.16,0.25,0.03
+is pointed,sensory,0.16,0.12,0.03
+is small,sensory,0.16,0.5,0.03
+is large,sensory,0.11,0.12,0.07
+is shiny,sensory,0.11,0.12,0.09
+can cut,functional,1.0,0.5,0.09
+is handheld,functional,0.32,0.88,0.03
+can pierce,functional,0.26,0.12,0.03
+can be bought,functional,0.11,0.25,0.01
+can be sharpened,functional,0.11,0.38,0.06
+is useful,functional,0.11,0.75,0.01
+is used in sewing,encyclopaedic,0.37,0.12,0.03
+is used in cooking,encyclopaedic,0.11,0.12,0.03

@@ -1,0 +1,23 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a toiletry,categorising,0.21,0.12,
+is a household item,categorising,0.26,0.75,
+is a tool,categorising,0.42,0.5,
+has bristles,sensory,1.0,0.12,0.07
+has handle,sensory,0.89,0.5,0.03
+is long and/or thin,sensory,0.42,0.25,0.02
+is coloured,sensory,0.26,0.44,0.04
+is hard,sensory,0.26,0.44,0.02
+is soft,sensory,0.26,0.19,0.09
+has head,sensory,0.21,0.19,0.14
+is light,sensory,0.11,0.44,0.02
+is small,sensory,0.11,0.69,0.03
+can clean teeth,functional,0.58,0.06,0.03
+is useful,functional,0.37,0.75,0.01
+can be washed,functional,0.26,0.12,0.07
+can clean,functional,0.26,0.12,0.05
+can hold toothpaste,functional,0.21,0.06,0.03
+is handheld,functional,0.21,0.06,0.03
+can scrub,functional,0.16,0.06,0.03
+is made of plastic,encyclopaedic,0.53,0.06,0.03
+is hygienic,encyclopaedic,0.16,0.06,0.03
+is found in a case,encyclopaedic,0.11,0.06,0.03

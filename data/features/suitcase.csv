@@ -1,0 +1,37 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a vehicle,categorising,0.11,0.06,
+is a household item,categorising,0.26,0.75,
+is a container,categorising,0.37,0.44,
+is a item of luggage,categorising,0.42,0.06,
+has lock,sensory,0.79,0.06,0.06
+has handle,sensory,0.74,0.5,0.03
+has strap,sensory,0.53,0.06,0.06
+is made of leather,sensory,0.53,0.06,0.06
+has wheel,sensory,0.47,0.19,0.09
+is square,sensory,0.47,0.31,0.16
+has lid,sensory,0.37,0.31,0.12
+is large,sensory,0.26,0.31,0.07
+is made of plastic,sensory,0.26,0.5,0.03
+is light,sensory,0.21,0.44,0.02
+is small,sensory,0.21,0.69,0.03
+has base,sensory,0.16,0.38,0.14
+has zips,sensory,0.16,0.06,0.06
+is made of fabric,sensory,0.16,0.12,0.09
+has body,sensory,0.11,0.25,0.2
+has corner,sensory,0.11,0.06,0.06
+has fastener,sensory,0.11,0.06,0.06
+has label,sensory,0.11,0.06,0.06
+is brown,sensory,0.11,0.12,0.09
+is hard,sensory,0.11,0.44,0.02
+is heavy,sensory,0.11,0.19,0.01
+is hollow,sensory,0.11,0.25,0.11
+is in different sizes,sensory,0.11,0.12,0.1
+can be carried,functional,0.58,0.56,0.04
+can hold clothing,functional,0.37,0.06,0.06
+can be filled,functional,0.32,0.25,0.11
+can open and close,functional,0.32,0.06,0.07
+is useful,functional,0.26,0.75,0.01
+can be lost,functional,0.11,0.12,0.09
+can be taken on holiday,functional,0.11,0.06,0.06
+has pocket,encyclopaedic,0.26,0.12,0.09
+is strong,encyclopaedic,0.16,0.06,0.11

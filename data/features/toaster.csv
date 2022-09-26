@@ -1,0 +1,27 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a tool,categorising,0.32,0.5,
+is a household item,categorising,0.47,0.75,
+is a electrical item,categorising,0.58,0.12,
+has a element,sensory,0.74,0.06,0.05
+is made of metal,sensory,0.68,0.56,0.04
+has plug,sensory,0.63,0.06,0.05
+has switch,sensory,0.53,0.06,0.05
+has lead,sensory,0.37,0.06,0.05
+has casing,sensory,0.32,0.06,0.05
+has controls,sensory,0.32,0.06,0.12
+is hot,sensory,0.32,0.06,0.05
+has body,sensory,0.16,0.25,0.2
+has slot,sensory,0.16,0.06,0.05
+has wires,sensory,0.11,0.12,0.09
+is coloured,sensory,0.11,0.44,0.04
+is hard,sensory,0.11,0.44,0.02
+is light,sensory,0.11,0.44,0.02
+is square,sensory,0.11,0.31,0.16
+can make toast,functional,0.79,0.06,0.05
+can burn,functional,0.37,0.12,0.11
+can be carried,functional,0.26,0.56,0.04
+can be damaged,functional,0.11,0.06,0.05
+can pop up,functional,0.11,0.06,0.05
+is useful,functional,0.11,0.75,0.01
+is found in kitchen,encyclopaedic,0.47,0.06,0.05
+has crumb tray,encyclopaedic,0.11,0.06,0.05

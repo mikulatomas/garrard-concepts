@@ -1,0 +1,43 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a mammal,categorising,0.16,0.5,
+is a animal,categorising,1.0,0.88,
+has legs,sensory,0.79,0.88,0.12
+has four legs,sensory,0.74,0.94,0.13
+has tail,sensory,0.68,0.81,0.11
+has mane,sensory,0.47,0.06,0.07
+is large,sensory,0.47,0.62,0.06
+has hooves,sensory,0.32,0.19,0.11
+has teeth,sensory,0.32,0.56,0.1
+has eyes,sensory,0.26,1.0,0.13
+has fur,sensory,0.26,0.69,0.11
+has ears,sensory,0.21,0.69,0.09
+has head,sensory,0.21,0.38,0.04
+is brown,sensory,0.21,0.5,0.05
+is fast,sensory,0.21,0.62,0.08
+is heavy,sensory,0.21,0.25,0.15
+has body,sensory,0.16,0.31,0.14
+can neigh,sensory,0.11,0.06,0.07
+has skin,sensory,0.11,0.44,0.1
+is dappled,sensory,0.11,0.06,0.07
+is white,sensory,0.11,0.06,0.06
+can pull,functional,0.58,0.19,0.12
+can be ridden,functional,0.42,0.19,0.12
+can jump,functional,0.37,0.56,0.09
+can be raced,functional,0.32,0.06,0.07
+can trot,functional,0.32,0.06,0.07
+can walk,functional,0.32,0.75,0.08
+can gallop,functional,0.26,0.06,0.07
+can run,functional,0.26,0.88,0.12
+can be trained,functional,0.16,0.25,0.17
+can bite,functional,0.16,0.31,0.17
+can eat,functional,0.16,0.94,0.11
+can be shod,functional,0.11,0.06,0.07
+can carry,functional,0.11,0.19,0.14
+can kick,functional,0.11,0.06,0.06
+is herbivorous,encyclopaedic,0.32,0.25,0.15
+is vegetarian,encyclopaedic,0.26,0.5,0.09
+is domesticated,encyclopaedic,0.21,0.38,0.05
+is strong,encyclopaedic,0.16,0.31,0.21
+can eat grass,encyclopaedic,0.11,0.12,0.07
+has strong teeth,encyclopaedic,0.11,0.12,0.07
+is friendly,encyclopaedic,0.11,0.12,0.11

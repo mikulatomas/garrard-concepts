@@ -1,0 +1,36 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a primate,categorising,0.25,0.06,
+is a animal,categorising,1.0,0.88,
+has tail,sensory,0.75,0.81,0.11
+has fur,sensory,0.7,0.69,0.11
+has legs,sensory,0.5,0.88,0.12
+has arms,sensory,0.3,0.06,0.06
+has teeth,sensory,0.25,0.56,0.1
+is small,sensory,0.25,0.5,0.02
+has hands,sensory,0.2,0.06,0.06
+has long tail,sensory,0.2,0.25,0.11
+has two legs,sensory,0.2,0.06,0.06
+can make a noise,sensory,0.15,0.19,0.03
+has eyes,sensory,0.15,1.0,0.13
+has feet,sensory,0.15,0.44,0.06
+has four legs,sensory,0.15,0.94,0.13
+has long arms,sensory,0.15,0.06,0.06
+has sharp teeth,sensory,0.15,0.38,0.19
+is brown,sensory,0.15,0.5,0.05
+can climb,functional,0.55,0.31,0.13
+can jump,functional,0.4,0.56,0.09
+can swing,functional,0.4,0.06,0.06
+can breed,functional,0.25,0.56,0.07
+can chatter,functional,0.25,0.06,0.06
+can run,functional,0.25,0.88,0.12
+can grasp,functional,0.2,0.12,0.08
+can eat,functional,0.15,0.94,0.11
+is agile,functional,0.15,0.25,0.12
+is found in trees,encyclopaedic,0.4,0.12,0.06
+is wild,encyclopaedic,0.4,0.75,0.09
+is intelligent,encyclopaedic,0.3,0.12,0.1
+is vegetarian,encyclopaedic,0.3,0.5,0.09
+is found in zoos,encyclopaedic,0.2,0.12,0.08
+is mischeivous,encyclopaedic,0.2,0.06,0.06
+can eat fruit,encyclopaedic,0.15,0.06,0.06
+is gregarious,encyclopaedic,0.15,0.12,0.09

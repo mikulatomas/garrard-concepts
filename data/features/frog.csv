@@ -1,0 +1,26 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a reptile,categorising,0.15,0.19,
+is an animal,categorising,0.5,0.12,
+is an amphibian,categorising,0.55,0.06,
+has eyes,sensory,0.55,1.0,0.13
+has skin,sensory,0.5,0.44,0.1
+is green,sensory,0.4,0.06,0.11
+is slimy,sensory,0.4,0.06,0.03
+has four legs,sensory,0.35,0.94,0.13
+has feet,sensory,0.25,0.44,0.06
+has spots,sensory,0.25,0.06,0.03
+is small,sensory,0.25,0.5,0.02
+has tongue,sensory,0.2,0.12,0.06
+has webbed feet,sensory,0.2,0.06,0.1
+has bulging eyes,sensory,0.15,0.06,0.03
+can jump,functional,1.0,0.56,0.09
+can swim,functional,0.8,0.25,0.04
+can eat,functional,0.45,0.94,0.11
+can croak,functional,0.4,0.06,0.03
+can spawn,functional,0.3,0.06,0.03
+can breed,functional,0.2,0.56,0.07
+is edible,functional,0.2,0.31,0.1
+can lay eggs,functional,0.15,0.19,0.05
+can eat insects,encyclopaedic,0.5,0.06,0.03
+is found in gardens,encyclopaedic,0.2,0.06,0.03
+is found near water,encyclopaedic,0.2,0.25,0.04

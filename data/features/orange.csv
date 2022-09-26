@@ -1,0 +1,15 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a fruit,categorising,1.0,1.0,
+has pips,sensory,0.85,0.67,0.15
+is juicy,sensory,0.85,0.83,0.18
+has skin,sensory,0.8,1.0,0.1
+has segments,sensory,0.6,0.17,0.04
+is orange,sensory,0.6,0.17,0.04
+has flesh,sensory,0.45,1.0,0.22
+is round,sensory,0.45,0.67,0.13
+is sweet,sensory,0.45,1.0,0.22
+has pith,sensory,0.35,0.17,0.04
+is edible,functional,0.85,1.0,0.1
+can be cooked,functional,0.15,0.83,0.17
+is found in the tropics,encyclopaedic,0.15,0.33,0.07
+is found on trees,encyclopaedic,0.15,0.5,0.11

@@ -1,0 +1,20 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a tool,categorising,0.95,1.0,
+has handle,sensory,0.95,0.88,0.03
+has head,sensory,0.95,0.38,0.14
+is made of wood,sensory,0.79,0.62,0.01
+is made of metal,sensory,0.74,0.88,0.04
+is heavy,sensory,0.53,0.38,0.01
+has claw,sensory,0.37,0.12,0.03
+can make a noise,sensory,0.21,0.12,0.08
+is hard,sensory,0.21,0.38,0.02
+has face,sensory,0.16,0.12,0.03
+is long and/or thin,sensory,0.11,0.38,0.02
+can knock in nails,functional,0.89,0.12,0.03
+can pull nails,functional,0.47,0.12,0.03
+can flatten surfaces,functional,0.26,0.12,0.03
+is handheld,functional,0.26,0.88,0.03
+can break things,functional,0.16,0.12,0.03
+is dangerous,encyclopaedic,0.16,0.5,0.11
+is found in the house,encyclopaedic,0.16,0.12,0.03
+is found in the workshop,encyclopaedic,0.11,0.12,0.03

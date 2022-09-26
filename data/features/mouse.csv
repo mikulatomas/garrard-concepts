@@ -1,0 +1,35 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a pet,categorising,0.21,0.19,
+is a rodent,categorising,0.32,0.12,
+is a animal,categorising,0.84,0.88,
+has tail,sensory,0.84,0.81,0.11
+is small,sensory,0.79,0.5,0.02
+has fur,sensory,0.68,0.69,0.11
+has long tail,sensory,0.53,0.25,0.11
+has whiskers,sensory,0.47,0.19,0.06
+has legs,sensory,0.42,0.88,0.12
+has teeth,sensory,0.32,0.56,0.1
+has ears,sensory,0.26,0.69,0.09
+has eyes,sensory,0.26,1.0,0.13
+has four legs,sensory,0.26,0.94,0.13
+is brown,sensory,0.21,0.5,0.05
+is fast,sensory,0.21,0.62,0.08
+is grey,sensory,0.21,0.19,0.09
+has sharp teeth,sensory,0.16,0.38,0.19
+can squeak,sensory,0.11,0.06,0.06
+has smell,sensory,0.11,0.12,0.06
+is soft,sensory,0.11,0.19,0.1
+can chew,functional,0.47,0.19,0.07
+can run,functional,0.47,0.88,0.12
+can climb,functional,0.26,0.31,0.13
+can breed,functional,0.21,0.56,0.07
+can eat,functional,0.16,0.94,0.11
+can hide,functional,0.16,0.19,0.08
+can be caught,functional,0.11,0.06,0.06
+can smell,functional,0.11,0.06,0.06
+is a pest,encyclopaedic,0.53,0.19,0.08
+has good eyesight,encyclopaedic,0.16,0.12,0.1
+is found in houses,encyclopaedic,0.16,0.06,0.06
+has nest,encyclopaedic,0.11,0.12,0.12
+is nocturnal,encyclopaedic,0.11,0.06,0.04
+is wild,encyclopaedic,0.11,0.75,0.09

@@ -1,0 +1,26 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a toy,categorising,0.33,0.12,
+is a vehicle,categorising,0.89,1.0,
+has runner,sensory,0.94,0.12,0.04
+is made of wood,sensory,0.72,0.12,0.01
+has seat,sensory,0.61,0.88,0.06
+is made of metal,sensory,0.44,0.88,0.04
+has rope,sensory,0.22,0.12,0.04
+is fast,sensory,0.17,0.88,0.08
+is unstable,sensory,0.17,0.38,0.12
+has handle,sensory,0.12,0.12,0.03
+is low,sensory,0.11,0.12,0.04
+is made of plastic,sensory,0.11,0.12,0.03
+can slide over snow/ice,functional,0.83,0.12,0.04
+can be pulled,functional,0.67,0.12,0.09
+can be ridden,functional,0.39,0.25,0.09
+can carry goods,functional,0.28,0.38,0.12
+can be steered,functional,0.22,0.12,0.04
+is useful,functional,0.22,0.75,0.01
+can be carried,functional,0.11,0.12,0.04
+can be made,functional,0.11,0.12,0.04
+can move,functional,0.11,0.75,0.23
+can travel downhill,functional,0.11,0.12,0.04
+can be pulled by dogs,encyclopaedic,0.39,0.12,0.04
+is used in the Arctic,encyclopaedic,0.17,0.12,0.04
+is motorised,encyclopaedic,0.11,0.12,0.04

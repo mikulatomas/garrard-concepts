@@ -1,0 +1,34 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a vehicle,categorising,1.0,1.0,
+has wheel,sensory,0.79,0.75,0.09
+has seat,sensory,0.74,0.88,0.06
+is large,sensory,0.58,0.62,0.07
+is made of metal,sensory,0.37,0.88,0.04
+has decks,sensory,0.32,0.12,0.07
+has window,sensory,0.32,0.5,0.19
+is coloured,sensory,0.32,0.38,0.04
+is roomy,sensory,0.16,0.12,0.07
+is fast,sensory,0.11,0.88,0.08
+can make a noise,sensory,0.11,0.75,0.08
+has body,sensory,0.11,0.25,0.2
+has cab,sensory,0.11,0.25,0.11
+has door,sensory,0.11,0.25,0.11
+can carry passengers,functional,0.78,0.5,0.17
+can move,functional,0.37,0.75,0.23
+can stop,functional,0.32,0.38,0.13
+can break down,functional,0.17,0.12,0.07
+can reverse,functional,0.16,0.38,0.14
+can run on roads,functional,0.16,0.12,0.07
+can follow a route,functional,0.11,0.12,0.07
+can start,functional,0.11,0.12,0.07
+is powerful,functional,0.11,0.38,0.15
+has driver,encyclopaedic,0.74,0.38,0.14
+has engine,encyclopaedic,0.63,0.75,0.24
+has conductor,encyclopaedic,0.26,0.12,0.07
+has stairs,encyclopaedic,0.26,0.12,0.07
+has brakes,encyclopaedic,0.16,0.25,0.11
+has fare,encyclopaedic,0.11,0.12,0.07
+is polluting,encyclopaedic,0.11,0.25,0.11
+is powered by diesel,encyclopaedic,0.11,0.38,0.14
+is powered by petrol,encyclopaedic,0.11,0.38,0.13
+is public,encyclopaedic,0.11,0.12,0.07

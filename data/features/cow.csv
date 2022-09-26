@@ -1,0 +1,29 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a mammal,categorising,0.16,0.5,
+is a ruminant,categorising,0.26,0.06,
+is a animal,categorising,1.0,0.88,
+has udder,sensory,0.74,0.06,0.04
+has four legs,sensory,0.47,0.94,0.13
+can moo,sensory,0.37,0.06,0.04
+is large,sensory,0.37,0.62,0.06
+has eyes,sensory,0.26,1.0,0.13
+has cloven hooves,sensory,0.16,0.06,0.04
+has ears,sensory,0.16,0.69,0.09
+has fur,sensory,0.16,0.69,0.11
+is black,sensory,0.16,0.06,0.06
+is brown,sensory,0.16,0.5,0.05
+has teats,sensory,0.11,0.06,0.04
+has tongue,sensory,0.11,0.12,0.06
+can be milked,functional,0.84,0.06,0.04
+is edible,functional,0.37,0.31,0.1
+can breed,functional,0.26,0.56,0.07
+can chew,functional,0.26,0.19,0.07
+can eat,functional,0.26,0.94,0.11
+can walk,functional,0.26,0.75,0.08
+is useful,functional,0.21,0.12,0.07
+can run,functional,0.16,0.88,0.12
+is found on farms,encyclopaedic,0.47,0.06,0.05
+can eat grass,encyclopaedic,0.26,0.12,0.07
+is docile,encyclopaedic,0.26,0.12,0.07
+is domesticated,encyclopaedic,0.26,0.38,0.05
+has valuable skin,encyclopaedic,0.11,0.06,0.04

@@ -1,0 +1,15 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a container,categorising,0.75,0.44,
+is made of wood,sensory,0.65,0.31,0.01
+is round,sensory,0.65,0.44,0.03
+has lid,sensory,0.6,0.31,0.12
+has bands,sensory,0.55,0.06,0.02
+has tap,sensory,0.55,0.06,0.02
+is made of metal,sensory,0.55,0.56,0.04
+has base,sensory,0.5,0.38,0.14
+has staves,sensory,0.35,0.06,0.02
+has sides,sensory,0.25,0.06,0.02
+is heavy,sensory,0.25,0.19,0.01
+is large,sensory,0.15,0.31,0.07
+can hold liquid,functional,0.5,0.12,0.06
+can roll,functional,0.4,0.12,0.04

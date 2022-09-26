@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+original_data/
+*.ipynb
+
+typicality_gathering/
+trash/

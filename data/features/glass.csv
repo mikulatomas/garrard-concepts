@@ -1,0 +1,26 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a tool,categorising,0.12,0.5,
+is a container,categorising,0.35,0.44,
+is a household item,categorising,0.47,0.75,
+is transparent,sensory,0.76,0.06,0.04
+has base,sensory,0.65,0.38,0.14
+has bowl,sensory,0.41,0.06,0.04
+has stem,sensory,0.41,0.12,0.11
+is round,sensory,0.24,0.44,0.03
+is small,sensory,0.24,0.69,0.03
+has rim,sensory,0.18,0.06,0.04
+is different shapes,sensory,0.18,0.06,0.04
+is hard,sensory,0.18,0.44,0.02
+is open-topped,sensory,0.18,0.06,0.04
+is smooth,sensory,0.18,0.12,0.11
+is coloured,sensory,0.12,0.44,0.04
+is decorative,sensory,0.12,0.06,0.04
+is light,sensory,0.12,0.44,0.02
+can be broken,functional,0.65,0.19,0.09
+can hold liquid,functional,0.59,0.12,0.06
+can be drunk from,functional,0.53,0.06,0.04
+can be bought,functional,0.12,0.25,0.01
+can be cut,functional,0.12,0.12,0.08
+can be washed,functional,0.12,0.12,0.07
+can cut,functional,0.12,0.06,0.09
+is useful,functional,0.12,0.75,0.01

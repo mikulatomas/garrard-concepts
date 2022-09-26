@@ -1,0 +1,32 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a bird,categorising,1.0,1.0,
+has claws,sensory,0.89,0.25,0.04
+has wings,sensory,0.89,1.0,0.07
+has beak,sensory,0.78,1.0,0.07
+has feathers,sensory,0.67,1.0,0.07
+is large,sensory,0.44,0.62,0.06
+has legs,sensory,0.32,0.75,0.12
+has large wings,sensory,0.28,0.25,0.07
+has feet,sensory,0.22,0.75,0.06
+has two legs,sensory,0.22,0.62,0.13
+has eyes,sensory,0.17,0.75,0.13
+has hooked beak,sensory,0.17,0.12,0.06
+is golden,sensory,0.16,0.12,0.06
+is grey,sensory,0.11,0.12,0.09
+can fly,functional,0.89,0.75,0.14
+can swoop,functional,0.39,0.25,0.08
+can lay eggs,functional,0.28,1.0,0.05
+can hover,functional,0.22,0.12,0.06
+can reproduce,functional,0.22,0.25,0.07
+can carry,functional,0.17,0.12,0.14
+can walk,functional,0.11,0.75,0.08
+is predator,encyclopaedic,0.89,0.25,0.12
+is carnivorous,encyclopaedic,0.78,0.25,0.14
+has good eyesight,encyclopaedic,0.67,0.25,0.1
+is dangerous,encyclopaedic,0.33,0.5,0.05
+has nest,encyclopaedic,0.28,0.38,0.12
+is wild,encyclopaedic,0.28,0.62,0.09
+is found in mountains,encyclopaedic,0.22,0.12,0.06
+is rare,encyclopaedic,0.22,0.12,0.08
+is protected,encyclopaedic,0.11,0.12,0.06
+is strong,encyclopaedic,0.11,0.12,0.21

@@ -1,0 +1,30 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a vehicle,categorising,0.95,1.0,
+has carriages,sensory,0.89,0.12,0.06
+has wheel,sensory,0.89,0.75,0.09
+is large,sensory,0.47,0.62,0.07
+is fast,sensory,0.47,0.88,0.08
+can make a noise,sensory,0.26,0.75,0.08
+has seat,sensory,0.21,0.88,0.06
+has wagon,sensory,0.21,0.12,0.06
+has window,sensory,0.16,0.5,0.19
+has funnel,sensory,0.11,0.12,0.06
+can carry passengers,functional,0.74,0.5,0.17
+can run on rails,functional,0.47,0.12,0.06
+can carry goods,functional,0.37,0.38,0.12
+can move,functional,0.32,0.75,0.23
+has whistle,functional,0.26,0.12,0.06
+can pull,functional,0.21,0.12,0.08
+has brakes,functional,0.21,0.38,0.12
+can reverse,functional,0.16,0.38,0.14
+can stop at stations,functional,0.16,0.12,0.06
+can run underground,functional,0.11,0.12,0.06
+is comfortable,functional,0.11,0.12,0.06
+is powerful,functional,0.11,0.38,0.15
+is useful,functional,0.11,0.75,0.01
+has engine,encyclopaedic,0.74,0.75,0.24
+is powered by electricity,encyclopaedic,0.37,0.12,0.06
+has driver,encyclopaedic,0.32,0.38,0.14
+is powered by diesel,encyclopaedic,0.26,0.38,0.14
+is powered by steam,encyclopaedic,0.22,0.12,0.06
+is pollutory,encyclopaedic,0.11,0.12,0.06

@@ -1,0 +1,24 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a container,categorising,0.37,0.44,
+is a household item,categorising,0.37,0.75,
+has handle,sensory,1.0,0.5,0.03
+is made of cane,sensory,0.79,0.06,0.03
+is woven,sensory,0.47,0.06,0.03
+is hollow,sensory,0.26,0.25,0.11
+has base,sensory,0.21,0.38,0.14
+has body,sensory,0.21,0.25,0.2
+has lid,sensory,0.21,0.31,0.12
+is light,sensory,0.21,0.44,0.02
+is made of plastic,sensory,0.21,0.5,0.03
+is small,sensory,0.21,0.69,0.03
+is made of wood,sensory,0.16,0.31,0.01
+has wheel,sensory,0.11,0.19,0.09
+is large,sensory,0.11,0.31,0.07
+is made of fabric,sensory,0.11,0.12,0.09
+is round,sensory,0.11,0.44,0.03
+can be filled,functional,0.84,0.25,0.11
+can be carried,functional,0.42,0.56,0.04
+can hold shopping,functional,0.32,0.06,0.03
+is useful,functional,0.32,0.75,0.01
+can be emptied,functional,0.16,0.19,0.09
+has pocket,encyclopaedic,0.11,0.12,0.09

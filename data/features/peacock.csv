@@ -1,0 +1,22 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a bird,categorising,0.95,1.0,
+is domesticated,encyclopaedic,0.15,0.25,0.05
+can lay eggs,functional,0.25,1.0,0.05
+can run,functional,0.3,0.38,0.12
+can walk,functional,0.3,0.75,0.08
+can fly,functional,0.5,0.75,0.14
+has head,sensory,0.15,0.38,0.04
+has crest,sensory,0.2,0.25,0.05
+has large tail,sensory,0.25,0.12,0.02
+has wings,sensory,0.25,1.0,0.07
+has two legs,sensory,0.3,0.12,0.06
+has beak,sensory,0.35,1.0,0.07
+is large,sensory,0.35,0.62,0.06
+can screech,sensory,0.4,0.12,0.02
+has tail,sensory,0.5,0.38,0.11
+is coloured,sensory,0.5,0.25,0.09
+can fan tail,sensory,0.55,0.12,0.02
+has legs,sensory,0.55,0.75,0.12
+is decorative,sensory,0.55,0.12,0.02
+has feathers,sensory,0.6,1.0,0.07
+can make a noise,sensory,0.9,0.62,0.03

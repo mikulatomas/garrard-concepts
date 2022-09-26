@@ -1,0 +1,31 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a marsupial,categorising,0.6,0.06,
+is a animal,categorising,0.9,0.88,
+has legs,sensory,0.85,0.88,0.12
+has large hind legs,sensory,0.6,0.12,0.07
+has pouch,sensory,0.6,0.06,0.04
+has fur,sensory,0.5,0.69,0.11
+is brown/grey,sensory,0.45,0.06,0.04
+has small front legs,sensory,0.4,0.06,0.04
+is large,sensory,0.4,0.62,0.06
+has ears,sensory,0.35,0.69,0.09
+has tail,sensory,0.25,0.81,0.11
+is fast,sensory,0.25,0.62,0.08
+has feet,sensory,0.2,0.44,0.06
+has powerful tail,sensory,0.2,0.12,0.07
+is upright,sensory,0.2,0.06,0.04
+has eyes,sensory,0.15,1.0,0.13
+has four legs,sensory,0.15,0.94,0.13
+has head,sensory,0.15,0.38,0.04
+has large feet,sensory,0.15,0.06,0.04
+can jump,functional,0.7,0.56,0.09
+can eat,functional,0.3,0.94,0.11
+can carry young,functional,0.25,0.06,0.04
+is edible,functional,0.2,0.31,0.1
+can breed,functional,0.15,0.56,0.07
+can run,functional,0.15,0.88,0.12
+can see,functional,0.15,0.25,0.1
+is found in Australia,encyclopaedic,0.5,0.12,0.06
+is vegetarian,encyclopaedic,0.4,0.5,0.09
+is wild,encyclopaedic,0.4,0.75,0.09
+is found in a zoo,encyclopaedic,0.3,0.19,0.08

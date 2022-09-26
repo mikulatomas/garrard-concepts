@@ -1,0 +1,20 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a container,categorising,0.5,0.44,
+is a household item,categorising,0.55,0.75,
+has lid,sensory,0.95,0.31,0.12
+is made of metal,sensory,0.75,0.56,0.04
+has handle,sensory,0.7,0.5,0.03
+is made of plastic,sensory,0.65,0.5,0.03
+is round,sensory,0.4,0.44,0.03
+has wheel,sensory,0.35,0.19,0.09
+is large,sensory,0.25,0.31,0.07
+is hollow,sensory,0.2,0.25,0.11
+has base,sensory,0.15,0.38,0.14
+can hold rubbish,functional,0.6,0.06,0.02
+can be filled,functional,0.5,0.25,0.11
+can be emptied,functional,0.45,0.19,0.09
+is useful,functional,0.3,0.75,0.01
+can be carried,functional,0.25,0.56,0.04
+can be moved,functional,0.2,0.12,0.08
+can roll,functional,0.15,0.12,0.04
+has lining,encyclopaedic,0.15,0.06,0.02

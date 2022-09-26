@@ -1,0 +1,38 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is an animal,categorising,0.95,0.12,
+has horn,sensory,0.95,0.06,0.05
+has legs,sensory,0.58,0.88,0.12
+has skin,sensory,0.58,0.44,0.1
+is heavy,sensory,0.53,0.25,0.15
+is large,sensory,0.53,0.62,0.06
+has four legs,sensory,0.47,0.94,0.13
+has eyes,sensory,0.26,1.0,0.13
+has tail,sensory,0.26,0.81,0.11
+has small tail,sensory,0.21,0.25,0.14
+is grey/black,sensory,0.21,0.06,0.05
+has ears,sensory,0.16,0.69,0.09
+has hooves,sensory,0.16,0.19,0.11
+has small eyes,sensory,0.16,0.06,0.05
+can make a noise,sensory,0.11,0.19,0.03
+has body,sensory,0.11,0.31,0.14
+has head,sensory,0.11,0.38,0.04
+has large legs,sensory,0.11,0.06,0.05
+has teeth,sensory,0.11,0.56,0.1
+has cloven hooves,sensory,0.11,0.06,0.05
+is fast,sensory,0.11,0.62,0.08
+is ungainly,sensory,0.11,0.06,0.05
+can charge,functional,0.53,0.06,0.05
+can run,functional,0.47,0.88,0.12
+can walk,functional,0.16,0.75,0.08
+can breed,functional,0.11,0.56,0.07
+can eat,functional,0.11,0.94,0.11
+can see,functional,0.11,0.25,0.1
+can swim,functional,0.11,0.25,0.04
+is dangerous,encyclopaedic,0.79,0.25,0.05
+is wild,encyclopaedic,0.68,0.75,0.09
+has tough skin,encyclopaedic,0.42,0.12,0.09
+is found near water,encyclopaedic,0.21,0.25,0.04
+is found in Africa,encyclopaedic,0.16,0.19,0.11
+is vegetarian,encyclopaedic,0.16,0.5,0.09
+is found in zoos,encyclopaedic,0.11,0.12,0.08
+is rare,encyclopaedic,0.11,0.12,0.08

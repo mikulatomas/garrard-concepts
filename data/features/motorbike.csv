@@ -1,0 +1,27 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is a vehicle,categorising,0.95,1.0,
+has wheel,sensory,0.95,0.75,0.09
+is fast,sensory,0.79,0.88,0.08
+has handlebar,sensory,0.53,0.25,0.09
+has light,sensory,0.53,0.38,0.12
+has seat,sensory,0.53,0.88,0.06
+can make a noise,sensory,0.42,0.75,0.08
+has tank,sensory,0.42,0.12,0.05
+is made of metal,sensory,0.42,0.88,0.04
+is unstable,sensory,0.37,0.38,0.12
+has tyre,sensory,0.26,0.25,0.09
+is coloured,sensory,0.21,0.38,0.04
+has sidecar,sensory,0.16,0.12,0.05
+has indicator,sensory,0.11,0.12,0.05
+has pannier,sensory,0.11,0.12,0.05
+has pedal,sensory,0.11,0.25,0.09
+has speedometer,sensory,0.11,0.12,0.05
+is manoevrable,functional,0.42,0.12,0.05
+can race,functional,0.32,0.12,0.05
+has brakes,functional,0.21,0.38,0.12
+can stop,functional,0.16,0.38,0.13
+can move,functional,0.11,0.75,0.23
+has engine,encyclopaedic,0.63,0.75,0.24
+is powered by petrol,encyclopaedic,0.42,0.38,0.13
+is economical,encyclopaedic,0.26,0.12,0.05
+has gears,encyclopaedic,0.21,0.38,0.12

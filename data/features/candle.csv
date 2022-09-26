@@ -1,0 +1,33 @@
+features,feature type,dominance,distinctiveness,proportion of all intercorrelations significant
+is lighting,categorising,0.42,0.06,
+is a household item,categorising,0.47,0.75,
+is wax,sensory,0.79,0.06,0.07
+has wick,sensory,0.74,0.06,0.07
+is coloured,sensory,0.37,0.44,0.04
+is long and/or thin,sensory,0.37,0.25,0.02
+has smell,sensory,0.26,0.06,0.07
+is round,sensory,0.26,0.44,0.03
+has stem,sensory,0.21,0.12,0.11
+is white,sensory,0.16,0.19,0.15
+has head,sensory,0.16,0.19,0.14
+is small,sensory,0.16,0.69,0.03
+has flame,sensory,0.11,0.06,0.07
+is shiny,sensory,0.11,0.06,0.09
+is smooth,sensory,0.11,0.12,0.11
+can give light,functional,0.74,0.06,0.07
+can be lit,functional,0.53,0.06,0.07
+can burn,functional,0.32,0.12,0.11
+can go out,functional,0.32,0.06,0.07
+can stand,functional,0.26,0.06,0.07
+can be carried,functional,0.16,0.56,0.04
+can melt,functional,0.16,0.06,0.07
+can be bought,functional,0.11,0.25,0.01
+can be moved,functional,0.11,0.12,0.08
+can ignite,functional,0.11,0.06,0.07
+can seal,functional,0.11,0.06,0.07
+can smoke,functional,0.11,0.06,0.07
+is found in church,encyclopaedic,0.16,0.06,0.07
+is found in a holder,encyclopaedic,0.11,0.06,0.07
+is cheap,encyclopaedic,0.11,0.06,0.07
+is found on birthday cake,encyclopaedic,0.11,0.06,0.07
+is long lasting,encyclopaedic,0.11,0.06,0.07
